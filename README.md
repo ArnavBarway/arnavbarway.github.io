@@ -23,7 +23,7 @@ Welcome to my portfolio! This website showcases my skills, projects, and backgro
 To run the project locally:
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/ArnavBarway/My-Portfolio)
+   git clone https://github.com/ArnavBarway/My-Portfolio
 
 ## How to access without Installation
 
