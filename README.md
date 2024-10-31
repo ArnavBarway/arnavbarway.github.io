@@ -24,3 +24,8 @@ To run the project locally:
 1. Clone this repository:
    ```bash
    git clone (https://github.com/ArnavBarway/My-Portfolio)
+
+## How to access without Installation
+
+To access the project without Installation:
+1. Go to https://my-portfolio-hazel-seven-30.vercel.app/
