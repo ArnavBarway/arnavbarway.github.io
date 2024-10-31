@@ -23,4 +23,4 @@ Welcome to my portfolio! This website showcases my skills, projects, and backgro
 To run the project locally:
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone (https://github.com/ArnavBarway/My-Portfolio)
