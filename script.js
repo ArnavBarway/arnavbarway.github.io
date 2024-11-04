@@ -8,7 +8,7 @@ window.onload = function() {
         event.preventDefault();
         emailjs.sendForm('service_i21179g', 'template_66vff6g', this) // Replace with actual IDs
             .then(() => {
-                alert('Message sent successfully!');
+                alert('Message Sent Successfully! If you haven't got our mail kindly check spam folder.');
             }, (error) => {
                 console.error('FAILED...', error);
                 alert('There was an error sending the message. Please try again.');
